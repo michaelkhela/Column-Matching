@@ -1,7 +1,7 @@
 # Group_Matching
 
 ## Overview
-The `Group_Matching` is a Python-based tool designed to create matched pairs of IDs based on a numerical matching column and gender (if applicable). This package is useful for researchers needing structured participant matching based on predefined criteria.
+The `Group_Matching` is a Python-based tool designed to create matched pairs of IDs based on a numerical matching column and gender (if applicable). This package is useful for researchers needing structured participant matching based on predefined criteria. This can also be used in a variety ofways to match inputs.
 
 ### Author
 **Michael Khela**  
