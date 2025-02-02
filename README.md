@@ -1,7 +1,7 @@
-# Matching_Package
+# Column_Matching
 
 ## Overview
-The `Matching_Package` is a Python-based tool designed to create matched pairs of IDs based on a numerical matching column and gender (if applicable). This package is useful for researchers needing structured participant matching based on predefined criteria.
+The `Column_Matching` is a Python-based tool designed to create matched pairs of IDs based on a numerical matching column and gender (if applicable). This package is useful for researchers needing structured participant matching based on predefined criteria.
 
 ### Author
 **Michael Khela**  
@@ -19,8 +19,8 @@ pip install pandas openpyxl
 ```
 
 ## Installation
-1. Clone or download the `Matching_Package` repository.
-2. Copy the `Matching_Package` folder to your working directory.
+1. Clone or download the `Column_Matching` repository.
+2. Copy the `Column_Matching` folder to your working directory.
 3. Ensure your CSV input file is structured correctly with the required columns.
 
 ## Usage
