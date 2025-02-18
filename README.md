@@ -7,6 +7,13 @@ The `Group_Matching` is a Python-based tool designed to create matched pairs of 
 **Michael Khela**  
 Email: [michael.khela99@gmail.com](mailto:michael.khela99@gmail.com)
 
+### Supervisor
+**Carol Wilkinson**
+
+### Contributors
+- Sophie Hurewitz  
+- Meagan Tsou 
+
 ## Requirements
 - **Python** 3.12.1
 - Required Python libraries:
